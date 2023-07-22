@@ -1,6 +1,5 @@
-# edc_new_web
+# new_web
 
-Code for the official website of EDC VIIT
 Being developed using MERN, Tailwind CSS and Vite.
 
 To run the code:
